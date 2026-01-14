@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Fersi</h1>
+<h1 align="center">Hi , I'm Mehedi Hasan Fersi</h1>
 <h3 align="center">Algorithm Design And Analysis</h3>
 
 <h3 align="left">Connect with me:</h3>
